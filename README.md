@@ -1,4 +1,3 @@
-
 <p align="center">
     <img alt="MCBOT" src="./imgs/MCBOT.PNG">
 </p>
@@ -24,6 +23,9 @@
     <img alt="CodeFactor" src="https://img.shields.io/codefactor/grade/github/MCHDF/MCBOT?style=for-the-badge&logo=appveyor.svg">
   </a>
 </p>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMCHDF%2FMCBOT.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMCHDF%2FMCBOT?ref=badge_large)
 
 ## 주의
 
@@ -55,7 +57,8 @@ Discord JS로 만들어진 여러 유틸과 유머기능 등을 담은 봇입니
   * OS : Rasbian Pi OS (Debian Base)
 
 ### 🎶 Music
-[![MCHDF's Repo](https://github-readme-stats.vercel.app/api/pin?username=MCHDF&repo=MCMusic&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/MCHDF/MCMusic)
+[![MCHDF's Repo](https://github-readme-stats.vercel.app/api/pin?username=MCHDF&repo=MCMusic&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/MCHDF/MCMusic)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMCHDF%2FMCBOT.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMCHDF%2FMCBOT?ref=badge_shield)
+
 
 ## 📜 봇 명령어
 
